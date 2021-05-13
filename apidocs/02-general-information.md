@@ -2,7 +2,7 @@
 
 ## General API Information
 
-* Some endpoints require you have a valid API-key and secret. Please visit **[here](https://www.wisebitcoin.com/support/faq​)** to get instructions on how to create your API
+* Some endpoints require you have a valid API-key and secret. Please visit **[here](https://www.wisebitcoin.com/support/faq#api)** to get instructions on how to create your API
 * All endpoints return either a JSON object or array.
 * Data is returned in **ascending** order. Oldest first, newest last.
 * All time and timestamp related fields are in milliseconds.
